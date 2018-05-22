@@ -1,0 +1,4 @@
+#!/bin/bash
+
+jupyter nbextension install --py --sys-prefix itkwidgets
+jupyter nbextension enable --py --sys-prefix itkwidgets
