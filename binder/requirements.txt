@@ -1,6 +1,3 @@
 itkwidgets
 itk-io
 requests
-vtk
-hanslovsky
-imglib2-imglyb
